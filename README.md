@@ -43,7 +43,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
 
 7. **Edit the Generated JSON File**
    ```bash
-   nano ~/popm-address.json
+   nano popm-address.json
    ```
    - Adjust the content of `popm-address.json` as needed. (You typically won’t need to modify your public key.)
    - Save the changes: Press `CTRL + X`, then `Y`, and hit `Enter`.

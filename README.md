@@ -21,7 +21,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
 
 3. **Extract the Downloaded Archive**
    ```bash
-   tar -xzvf heminetwork_v0.3.13_linux_amd64.tar.gz -C hemi/
+   tar --strip-components=1 -xzvf heminetwork_v0.3.13_linux_amd64.tar.gz -C hemi
    ```
 
 4. **Navigate to the Hemi Directory**

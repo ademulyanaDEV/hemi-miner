@@ -29,7 +29,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
    cd hemi
    ```
 
-5. **View Help Information**
+5. **View Help Information (optional)**
    ```bash
    ./popmd --help
    ```

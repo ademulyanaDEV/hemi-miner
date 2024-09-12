@@ -58,9 +58,19 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
 
 ### Run the Miner
 
+**USE SCREEN**
+   ```bash
+   screen -S Hemi-Miner
+   ```
+
 9. **Start the Hemi Miner**
    ```bash
    ./popmd
+   ```
+   
+**CLOSE SCREEN**
+   ```bash
+   ctrl a + d 
    ```
 
 ## Additional Notes

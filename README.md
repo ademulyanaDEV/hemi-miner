@@ -38,7 +38,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
 
 6. **Generate a New Key**
    ```bash
-   ./keygen -secp256k1 -json -net="testnet" > ~/popm-address.json
+   ./keygen -secp256k1 -json -net="testnet" > popm-address.json
    ```
 
 7. **Edit the Generated JSON File**

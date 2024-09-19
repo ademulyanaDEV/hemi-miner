@@ -36,7 +36,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
 
 ### Configuration
 
-6. **Generate a New Key**
+6. **Generate a New Wallet**
    ```bash
    ./keygen -secp256k1 -json -net="testnet" > popm-address.json
    ```

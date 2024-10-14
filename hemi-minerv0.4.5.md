@@ -41,17 +41,10 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
    ./keygen -secp256k1 -json -net="testnet" > popm-address.json
    ```
 
-7. **Edit the Generated JSON File**
-   ```bash
-   nano popm-address.json
-   ```
-   OR TO JUST SEE
+7. **SEE WALLET**
    ```bash
    cat popm-address.json
    ```
-
-   - Adjust the content of `popm-address.json` as needed. (You typically won’t need to modify your public key.)
-   - Save the changes: Press `CTRL + X`, then `Y`, and hit `Enter`.
 
 8. **Set Up Environment Variables**
    Replace `yourpk` with your private key.

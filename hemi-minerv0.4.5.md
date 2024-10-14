@@ -36,10 +36,11 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
 
 ### Configuration
 
-6. **Generate a New Wallet**
+6. **Generate Wallet (MUST DO)**
    ```bash
    ./keygen -secp256k1 -json -net="testnet" > popm-address.json
    ```
+   IF YOU HAVE OLD WALLET YOU MUST DO GENERATE WALLET AND THEN INPORT YOUR OLD PRIVATE KEY IN NUMBER 8
 
 7. **SEE WALLET**
    ```bash

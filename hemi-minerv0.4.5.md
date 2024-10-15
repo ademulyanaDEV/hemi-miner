@@ -71,6 +71,10 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
    ```bash
    ctrl a + d 
    ```
+**OPEN SCREEN**
+   ```bash
+   screen -r Hemi-Miner
+   ```
 
 ## Additional Notes
 

@@ -40,7 +40,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
    ```bash
    ./keygen -secp256k1 -json -net="testnet" > popm-address.json
    ```
-   IF YOU HAVE OLD WALLET YOU MUST DO GENERATE WALLET AND THEN INPORT YOUR OLD PRIVATE KEY IN NUMBER 8
+   IF YOU HAVE OLD WALLET YOU MUST DO GENERATE WALLET AND THEN IMPORT YOUR OLD PRIVATE KEY IN NUMBER 8
 
 7. **SEE WALLET**
    ```bash

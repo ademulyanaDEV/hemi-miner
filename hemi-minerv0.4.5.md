@@ -48,6 +48,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
    ```
 
 8. **Set Up Environment Variables (MUST DO) YOU CAN USE OLD PRIVATE KEY OR NEW (SEE USE NO 7)**
+   
    Replace `yourpk` with your private key.
    ```bash
    export POPM_BTC_PRIVKEY=yourpk

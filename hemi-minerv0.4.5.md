@@ -1,6 +1,6 @@
 # hemi-miner
 
-## Official Tutorial for Setting Up Hemi-Miner
+## Tutorial for Setting Up Hemi-Miner
 
 Welcome to the Hemi-Miner setup guide! Follow these steps to get Hemi-Miner up and running on your system.
 

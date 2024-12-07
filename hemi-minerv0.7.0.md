@@ -52,7 +52,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
    Replace `yourpk` with your private key.
    ```bash
    export POPM_BTC_PRIVKEY=yourpk
-   export POPM_STATIC_FEE=400
+   export POPM_STATIC_FEE=3500
    export POPM_BFG_URL=wss://testnet.rpc.hemi.network/v1/ws/public
    ```
 

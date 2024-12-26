@@ -11,7 +11,7 @@ Ensure you have `wget`, `tar`, `nano`, and basic terminal commands available on 
 
 1. **Download the Hemi Network Binary**
    ```bash
-   wget https://github.com/hemilabs/heminetwork/releases/download/v0.8.0/heminetwork_v0.7.0_linux_amd64.tar.gz
+    wget https://github.com/hemilabs/heminetwork/releases/download/v0.8.0/heminetwork_v0.8.0_linux_amd64.tar.gz
    ```
 
 2. **Create a Directory for Hemi**
